@@ -15,5 +15,5 @@
 ## 笔记目录
 第一课：01. 方程组的几何解释
 * [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29E773)
-* [知乎专栏笔记地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29E773)
+* [知乎专栏笔记地址](https://zhuanlan.zhihu.com/p/87873464)
 * [PDF下载地址](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes/tree/master/%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A)
