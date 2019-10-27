@@ -26,4 +26,4 @@
 第三课：03.乘法和逆矩阵
 * [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FCHO)
 * [知乎专栏笔记地址](https://zhuanlan.zhihu.com/p/88755358)
-* [PDF下载地址](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes/tree/master/%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83)
+* [PDF下载地址](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes/tree/master/%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5)
