@@ -32,3 +32,8 @@
 * [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FCHO)
 * [知乎专栏笔记地址](https://zhuanlan.zhihu.com/p/89784741)
 * [PDF下载地址](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes/tree/master/%5B04%5DA%20%E7%9A%84%20LU%20%E5%88%86%E8%A7%A3)
+
+第五课：转置-置换-向量空间R
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FRJK)
+* [知乎专栏笔记地址](https://zhuanlan.zhihu.com/p/89784741)
+* [PDF下载地址](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes/tree/master/%5B04%5DA%20%E7%9A%84%20LU%20%E5%88%86%E8%A7%A3)
