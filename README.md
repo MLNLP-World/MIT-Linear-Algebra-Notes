@@ -37,3 +37,9 @@
 * [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FRJK)
 * [知乎专栏笔记地址](https://zhuanlan.zhihu.com/p/90227543)
 * [PDF下载地址](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes/tree/master/%5B04%5DA%20%E7%9A%84%20LU%20%E5%88%86%E8%A7%A3)
+
+第六课：列空间与零空间
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FRJK)
+* [知乎专栏笔记地址](https://zhuanlan.zhihu.com/p/105280523)
+* [PDF下载地址](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes/tree/master/%5B06%5D%20%E5%88%97%E7%A9%BA%E9%97%B4%E5%92%8C%E9%9B%B6%E7%A9%BA%E9%97%B4)
+
