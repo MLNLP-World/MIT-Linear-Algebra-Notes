@@ -46,5 +46,5 @@
 第七课：求解 Ax = 0，主变量，特解
 * [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FRJK)
 * [知乎专栏笔记地址](https://zhuanlan.zhihu.com/p/106145156)
-* [PDF下载地址](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes/tree/master/%5B06%5D%20%E5%88%97%E7%A9%BA%E9%97%B4%E5%92%8C%E9%9B%B6%E7%A9%BA%E9%97%B4)
+* [PDF下载地址](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes/tree/master/%5B07%5D%20%E6%B1%82%E8%A7%A3%20Ax%20%3D%200%EF%BC%8C%E4%B8%BB%E5%8F%98%E9%87%8F%EF%BC%8C%E7%89%B9%E8%A7%A3)
 
