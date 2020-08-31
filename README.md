@@ -48,7 +48,58 @@
 * [知乎专栏笔记地址](https://zhuanlan.zhihu.com/p/106145156)
 * [PDF下载地址](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes/tree/master/%5B07%5D%20%E6%B1%82%E8%A7%A3%20Ax%20%3D%200%EF%BC%8C%E4%B8%BB%E5%8F%98%E9%87%8F%EF%BC%8C%E7%89%B9%E8%A7%A3)
 
+第八课：求解Ax=b：可解性和解的结构
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2ABHV8)
+* [PDF下载地址]()
 
+第九课：线性相关性、基、维数
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2ACDCT)
+* [PDF下载地址]()
+
+第十课：四个基本子空间
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2ADFDT)
+* [PDF下载地址]()
+
+第十一课：矩阵空间、秩1矩阵和小世界图
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AJS2T)
+* [PDF下载地址]()
+
+第十二课：图和网络
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AIUTE)
+* [PDF下载地址]()
+
+第十三课：复习一
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AJ69K)
+* [PDF下载地址]()
+
+第十四课：正交向量与子空间
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AJEMH)
+* [PDF下载地址]()
+
+第十五课：子空间投影
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AJLJU)
+* [PDF下载地址]()
+
+第十六课：投影矩阵和最小二乘
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AOJPU)
+* [PDF下载地址]()
+
+第十七课：正交矩阵和Gram-Schmidt正交化
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AORLS)
+* [PDF下载地址]()
+
+第十八 十九课：行列式介绍
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AP150)
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2APP34)
+* [PDF下载地址]()
+
+第二十课：克拉默法则、逆矩阵、体积
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AQ40C)
+* [PDF下载地址]()
+
+第二十一课：特征值和特征向量
+* [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AV2R8)
+* [PDF下载地址]()
 
 第二十二课：对角化和 A 的幂 
 * [中文字幕课程地址](http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AV6GL)
