@@ -48,12 +48,9 @@
 
 本项目所用徽章来自互联网，如侵犯了您的图片版权请联系我们删除，谢谢。
 
-
 ## <img src="./imgs/icon/notes.png" width="25" /> 笔记
-
-
-| 章节                                   | 视频                                                         | 笔记                                                         |
-| -------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 章节                             | 视频                                                         | 笔记                                                         |
+| :------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | 第一课：方程组的几何解释               | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29E773">  <img src="./imgs/cover/00.png"  width="170" /></a> | [方程组的几何解释](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B01%5D%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%5B%E4%B8%80%5D.pdf) |
 | 第二课：矩阵消元                       | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29EGPP">  <img src="./imgs/cover/01.png"  width="170" /></a> | [矩阵消元](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B02%5D%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%5B%E4%BA%8C%5D.pdf) |
 | 第三课：乘法和逆矩阵                   | <a href="http://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FCHO">  <img src="./imgs/cover/02.png"  width="170" /></a> | [乘法和逆矩阵](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B03%5D%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%5B%E4%B8%89%5D.pdf) |
@@ -75,7 +72,7 @@
 | 第二十课：克拉默法则、逆矩阵、体积     | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AQ40C">  <img src="./imgs/cover/18.png"  width="170" /></a> | [克拉默法则、逆矩阵、体积](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B20%5D%20%E5%85%8B%E8%8E%B1%E5%A7%86%E6%B3%95%E5%88%99%E3%80%81%E9%80%86%E7%9F%A9%E9%98%B5%E3%80%81%E4%BD%93%E7%A7%AF/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B020.pdf) |
 | 第二十一课：特征值和特征向量           | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AV2R8">  <img src="./imgs/cover/19.png"  width="170" /></a> | [特征值和特征向量](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B21%5D%20%E7%89%B9%E5%BE%81%E5%80%BC%E5%92%8C%E7%89%B9%E5%BE%81%E5%90%91%E9%87%8F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B021.pdf) |
 | 第二十二课：对角化和 A 的幂            | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AV6GL">  <img src="./imgs/cover/20.png"  width="170" /></a> | [对角化和 A 的幂](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B22%5D%20%E5%AF%B9%E8%A7%92%E5%8C%96%E5%92%8C%20A%20%E7%9A%84%E5%B9%82/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B022.pdf) |
-| 第二十三课：微分方程和exp(At)          | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AVIBM">  <img src="./imgs/cover/21.png"  width="170" /></a> | [微分方程和exp(At)](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B23%5D%20%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%92%8Cexp(At)/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B023.pdf) |
+| 第二十三课：微分方程和exp(At)          | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AVIBM">  <img src="./imgs/cover/21.png"  width="170" /></a> | [微分方程和exp(At)](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B23%5D%20%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%92%8Cexp(At)/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B023.pdf)/ |
 | 第二十四课：马尔可夫矩阵;傅立叶级数    | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AVOAV">  <img src="./imgs/cover/22.png"  width="170" /></a> | [马尔可夫矩阵;傅立叶级数](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B24%5D%20%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E7%9F%A9%E9%98%B5%3B.%E5%82%85%E7%AB%8B%E5%8F%B6%E7%BA%A7%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B024.pdf) |
 | 第二十五课：复习二                     | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M7E4C9V6P">  <img src="./imgs/cover/23.png"  width="170" /></a> | [复习二](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B25%5D%20%E5%A4%8D%E4%B9%A0%E4%BA%8C/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B025.pdf) |
 | 第二十六课：对称矩阵及正定性           | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AVUL4">  <img src="./imgs/cover/24.png"  width="170" /></a> | [对称矩阵及正定性](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B26%5D%20%E5%AF%B9%E7%A7%B0%E7%9F%A9%E9%98%B5%E5%8F%8A%E6%AD%A3%E5%AE%9A%E6%80%A7/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B026.pdf) |
@@ -87,7 +84,7 @@
 | 第三十二课：基变换和图像压缩           | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2BA04Q">  <img src="./imgs/cover/30.png"  width="170" /></a> | [基变换和图像压缩](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B32%5D%20%E5%9F%BA%E5%8F%98%E6%8D%A2%E5%92%8C%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B032.pdf) |
 | 第三十三课：单元检测3复习              | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2BA6N8">  <img src="./imgs/cover/31.png"  width="170" /></a> | [单元检测3复习](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B33%5D%20%E5%8D%95%E5%85%83%E6%A3%80%E6%B5%8B3%E5%A4%8D%E4%B9%A0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B033.pdf) |
 | 第三十四课：左右逆和伪逆               | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2BADQ9">  <img src="./imgs/cover/32.png"  width="170" /></a> | [左右逆和伪逆](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B34%5D%20%E5%B7%A6%E5%8F%B3%E9%80%86%E5%92%8C%E4%BC%AA%E9%80%86/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B034.pdf) |
-| 第三十五课：期末复习                   | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2BAN1H">  <img src="./imgs/cover/33.png"  width="170" /></a> | [期末复习](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B35%5D%20%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B035.pdf) |
+| 第三十五课：期末复习                   | <a href="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2BAN1H">  <img src="./imgs/cover/33.png"  width="170" /></a> | [期末复习](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/blob/master/%5B35%5D%20%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B035.pdf)/ |
 
 
 
@@ -99,14 +96,7 @@
 ## <img src="./imgs/icon/heart.png" width="25" /> 贡献者
 感谢以下同学对本项目的支持与贡献
 
-<a href="https://github.com/KB-Ding">  <img src="./imgs/profile/kunbo_ding.png"  width="80" /></a>
-
-<a href="https://github.com/Timothyxxx"><img src="./imgs/profile/tianbao_xie.png"  width="80" /></a>
-<a href="https://github.com/cindyuc">  <img src="./imgs/profile/xinyu_chen.png"  width="80" /></a> 
-<a href="https://github.com/awake020"><img src="./imgs/profile/fuxuan_wei.png"  width="80" /></a>
-<a href="https://github.com/JoeYing1019">  <img src="./imgs/profile/shijue_huang.png"  width="80" /></a>
-
-<a href="https://github.com/yizhen20133868"><img src="./imgs/profile/libo_qin.png"  width="80" /></a> 
+<a href="https://github.com/KB-Ding">  <img src="./imgs/profile/kunbo_ding.png"  width="80" /></a><a href="https://github.com/Timothyxxx"><img src="./imgs/profile/tianbao_xie.png"  width="80" /></a><a href="https://github.com/cindyuc">  <img src="./imgs/profile/xinyu_chen.png"  width="80" /></a> <a href="https://github.com/awake020"><img src="./imgs/profile/fuxuan_wei.png"  width="80" /></a><a href="https://github.com/JoeYing1019">  <img src="./imgs/profile/shijue_huang.png"  width="80" /></a><a href="https://github.com/yizhen20133868"><img src="./imgs/profile/libo_qin.png"  width="80" /></a> 
 
 
 
