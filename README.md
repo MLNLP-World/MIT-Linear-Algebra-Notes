@@ -25,10 +25,10 @@
 
 <div align="center">
 <p align="center">
-  <a href="#项目动机">项目动机</a>/
-  <a href="#笔记">笔记</a>/
-  <a href="#组织者">组织者</a>/
-  <a href="#贡献者">贡献者</a>
+  <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E9%A1%B9%E7%9B%AE%E5%8A%A8%E6%9C%BA">项目动机</a>/
+  <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E7%AC%94%E8%AE%B0">笔记</a>/
+  <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E7%BB%84%E7%BB%87%E8%80%85">组织者</a>/
+  <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E8%B4%A1%E7%8C%AE%E8%80%85">贡献者</a>
 </p>
 </div>
 
