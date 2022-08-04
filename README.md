@@ -1,22 +1,51 @@
 <p align="center">
-<h1 align="center"> <img src="./imgs/icon/la.png" width="30" />《线性代数（Linear Algebra）中文笔记》</h1>
+<h1 align="center"> <img src="./imgs/icon/ai.png" width="30" /> 《麻省理工公开课：线性代数》中文笔记</h1>
+</p>
+<p align="center">
+  	<a href="https://img.shields.io/badge/version-v0.1.0-blue">
+      <img alt="version" src="https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922" />
+    </a>
+  <a >
+       <img alt="Status-building" src="https://img.shields.io/badge/Status-building-blue" />
+  	</a>
+  <a >
+       <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
+  	</a>
+   	<a href="https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/stargazers">
+       <img alt="stars" src="https://img.shields.io/github/stars/ML-NLPChina/MIT-Linear-Algebra-Notes" />
+  	</a>
+  	<a href="https://github.com/MLNLP-World/Paper_Writing_Tips/network/members">
+       <img alt="FORK" src="https://img.shields.io/github/forks/ML-NLPChina/MIT-Linear-Algebra-Notes?color=FF8000" />
+  	</a>
+    <a href="https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/ML-NLPChina/MIT-Linear-Algebra-Notes?color=0088ff"/>
+    </a>
+    <br />
 </p>
 
+<div align="center">
+<p align="center">
+  <a href="#项目动机">项目动机</a>/
+  <a href="#笔记">笔记</a>/
+  <a href="#组织者">组织者</a>/
+  <a href="#贡献者">贡献者</a>
+</p>
+</div>
 
 ---
 
 ## <img src="./imgs/icon/motivation.png" width="25" /> 项目动机
 
-《线性代数（Linear Algebra）中文笔记》总结了我们在学习MIT线性代数课程的学习经验和过程。
+《麻省理工公开课：线性代数》是麻省理工公开课中广为流传的一门好课。本项目总结了我们在学习MIT线性代数课程 [Linear Algebra](http://open.163.com/special/opencourse/daishu.html)的学习笔记。赠人玫瑰，手留余香，我们将所有的笔记开源，希望在自己学习的同时，也对大家学习掌握《麻省理工公开课：线性代数》有所帮助。
 
-课程顺序是按照麻省理工公开课的 [Linear Algebra](http://open.163.com/special/opencourse/daishu.html). 记录的学习笔记。
+>本项目的特色：
+>
+>1、**笔记**与**原课程视频**一一对应，可以帮助大家一边听课一边理解。
+>2、通过**图解**来使得笔记尽量通俗易懂
 
-本项目的**中文字幕课程地址**与**中文笔记**一一对应，可以帮助大家一边听课一边理解，希望能对大家有所帮助～
+课程视频共35节，单个视频平均时长不超过60分钟，预计一个月可以学习完毕。
 
 本项目所用徽章来自互联网，如侵犯了您的图片版权请联系我们删除，谢谢。
-
-
-## 
 
 
 ## <img src="./imgs/icon/notes.png" width="25" /> 笔记
@@ -70,11 +99,13 @@
 感谢以下同学对本项目的支持与贡献
 
 <a href="https://github.com/KB-Ding">  <img src="./imgs/profile/kunbo_ding.png"  width="80" /></a> 
-<a href="https://github.com/yizhen20133868"><img src="./imgs/profile/libo_qin.png"  width="80" /></a> 
+
 <a href="https://github.com/Timothyxxx"><img src="./imgs/profile/tianbao_xie.png"  width="80" /></a>
 <a href="https://github.com/cindyuc">  <img src="./imgs/profile/xinyu_chen.png"  width="80" /></a> 
 <a href="https://github.com/awake020"><img src="./imgs/profile/fuxuan_wei.png"  width="80" /></a>
 <a href="https://github.com/JoeYing1019">  <img src="./imgs/profile/shijue_huang.png"  width="80" /></a>
+
+<a href="https://github.com/yizhen20133868"><img src="./imgs/profile/libo_qin.png"  width="80" /></a> 
 
 
 
