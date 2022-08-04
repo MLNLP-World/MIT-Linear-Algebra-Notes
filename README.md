@@ -24,10 +24,10 @@
 </p>
 <div align="center">
 <p align="center">
-  <a href="#项目动机">项目动机</a>/
-  <a href="#笔记">笔记</a>/
-  <a href="#组织者">组织者</a>/
-  <a href="#贡献者">贡献者</a>
+  <a href="##项目动机">项目动机</a>/
+  <a href="##笔记">笔记</a>/
+  <a href="##组织者">组织者</a>/
+  <a href="##贡献者">贡献者</a>
 </p>
 </div>
 
