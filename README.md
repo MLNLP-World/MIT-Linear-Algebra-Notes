@@ -41,6 +41,7 @@
 >本项目的特色：
 >
 >1、**笔记**与**原课程视频**一一对应，可以帮助大家一边听课一边理解。
+>
 >2、通过**图解**来使得笔记尽量通俗易懂
 
 课程视频共35节，单个视频平均时长不超过60分钟，预计一个月可以学习完毕。
@@ -98,7 +99,7 @@
 ## <img src="./imgs/icon/heart.png" width="25" /> 贡献者
 感谢以下同学对本项目的支持与贡献
 
-<a href="https://github.com/KB-Ding">  <img src="./imgs/profile/kunbo_ding.png"  width="80" /></a> 
+<a href="https://github.com/KB-Ding">  <img src="./imgs/profile/kunbo_ding.png"  width="80" /></a>
 
 <a href="https://github.com/Timothyxxx"><img src="./imgs/profile/tianbao_xie.png"  width="80" /></a>
 <a href="https://github.com/cindyuc">  <img src="./imgs/profile/xinyu_chen.png"  width="80" /></a> 
