@@ -42,6 +42,7 @@
 >本项目的特色：
 >
 >1、**笔记**与**原课程视频**一一对应，可以帮助大家一边听课一边理解。
+
 >2、通过**图解**来使得笔记尽量通俗易懂
 
 课程视频共35节，单个视频平均时长不超过60分钟，预计一个月可以学习完毕。
@@ -57,8 +58,6 @@
 ## <img src="./imgs/icon/resource.png" width="25" /> 课程资源
 
 - 网易公开课网址：[麻省理工公开课：线性代数](https://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html)
-
-此外，本门课程还有相应的代码实现。**每章都有相应的jupyter记事本，提供模型的完整python代码**，所有的资源都可在网上免费获取。
 
 ## <img src="./imgs/icon/notes.png" width="25" /> 笔记
 | 章节                             | 视频                                                         | 笔记                                                         |
