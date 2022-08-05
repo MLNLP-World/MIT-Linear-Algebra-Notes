@@ -22,15 +22,17 @@
     </a>
     <br />
 </p>
-
 <div align="center">
 <p align="center">
   <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E9%A1%B9%E7%9B%AE%E5%8A%A8%E6%9C%BA">项目动机</a>/
+  <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B">课程简介</a>/
+  <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90">课程资源</a>/
   <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E7%AC%94%E8%AE%B0">笔记</a>/
   <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E7%BB%84%E7%BB%87%E8%80%85">组织者</a>/
   <a href="https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes#-%E8%B4%A1%E7%8C%AE%E8%80%85">贡献者</a>
 </p>
 </div>
+
 
 
 ---
